@@ -1,1 +1,2 @@
 first line in txtFile.txt
+second line in txtFile.txt
